@@ -1,6 +1,6 @@
 
-### **Java Interview Questions & Answers**
-#### Question 1: What is Java ?
+## **Java Interview Questions & Answers**
+### Question 1: What is Java ?
 
 **Answer:**
 
@@ -23,7 +23,7 @@ Because of these features, Java is a dominant language in enterprise development
 *   Web applications and microservices.
 *   Scientific and financial applications.
 
-#### **Question 2: What is the difference between the JDK, JRE, and JVM?**
+### **Question 2: What is the difference between the JDK, JRE, and JVM?**
 
 **Answer:**
 
